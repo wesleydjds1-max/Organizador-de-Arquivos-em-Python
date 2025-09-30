@@ -66,11 +66,8 @@ Downloads/
 ```bash```
    ```python organizer.py```
 
-   ## 📜 Licença
+---
 
-Este projeto está sob a licença MIT.
-Você pode usar, modificar e distribuir livremente.
-
-✨ Projeto simples e útil para organizar arquivos automaticamente!
+## ✨ Projeto simples e útil para organizar arquivos automaticamente!
 
 
