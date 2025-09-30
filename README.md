@@ -31,12 +31,11 @@ Este é um **projeto prático em Python** que organiza automaticamente arquivos 
 ## 🚀 Como Executar
 
 1. Certifique-se de ter o **Python 3** instalado.  
-2. Baixe ou copie o arquivo `organizer.py`.  
+2. Baixe ou copie o arquivo _`organizer.py`._  
 3. Abra o terminal e vá até a pasta onde está o script.  
-4. Execute o comando: ```bash
-   python organizer.py
+4. Execute o comando: _```bash
+   python organizer.py```_
 5. Digite o caminho da pasta que você deseja organizar.
-
 6. Pronto! Seus arquivos estarão organizados automaticamente. ✅
 
    ## 💡 Exemplo de Uso
@@ -44,7 +43,7 @@ Este é um **projeto prático em Python** que organiza automaticamente arquivos 
 Suponha que você tenha uma pasta chamada Downloads cheia de arquivos.
 Ao rodar o script e informar o caminho dela, será criada uma estrutura assim:
 
-Downloads/
+## Downloads/
 │
 ├── Imagens/
 │   ├── foto.jpg
@@ -60,5 +59,16 @@ Downloads/
 ├── Outros/
 │   └── arquivo.desconhecido
 
-   ```bash
-   python organizer.py
+---
+
+   ``'bash
+   `python organizer.py`
+
+   ## 📜 Licença
+
+Este projeto está sob a licença MIT.
+Você pode usar, modificar e distribuir livremente.
+
+✨ Projeto simples e útil para organizar arquivos automaticamente!
+
+
