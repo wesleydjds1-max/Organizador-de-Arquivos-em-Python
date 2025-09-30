@@ -38,7 +38,9 @@ Este é um **projeto prático em Python** que organiza automaticamente arquivos 
 5. Digite o caminho da pasta que você deseja organizar.
 6. Pronto! Seus arquivos estarão organizados automaticamente. ✅
 
-   ## 💡 Exemplo de Uso
+---
+
+## 💡 Exemplo de Uso
 
 Suponha que você tenha uma pasta chamada Downloads cheia de arquivos.
 Ao rodar o script e informar o caminho dela, será criada uma estrutura assim:
