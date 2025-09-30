@@ -45,7 +45,7 @@ Este é um **projeto prático em Python** que organiza automaticamente arquivos 
 Suponha que você tenha uma pasta chamada Downloads cheia de arquivos.
 Ao rodar o script e informar o caminho dela, será criada uma estrutura assim:
 
-## Downloads
+Downloads/
 │
 ├── Imagens/
 │   ├── foto.jpg
