@@ -61,7 +61,8 @@ Ao rodar o script e informar o caminho dela, será criada uma estrutura assim:
 
 ---
 
-`python organizer.py`
+_```bash
+   python organizer.py```_
 
    ## 📜 Licença
 
