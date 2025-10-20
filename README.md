@@ -72,8 +72,6 @@ Downloads/
 
 Este projeto está licenciado sob a **CC0-1.0 License**.  
 Isso significa que você pode **copiar, modificar, distribuir e usar o código para qualquer finalidade, inclusive comercial, sem necessidade de atribuição**.
-
-
 ---
 
 ## ✨ Projeto simples e útil para organizar arquivos automaticamente!
