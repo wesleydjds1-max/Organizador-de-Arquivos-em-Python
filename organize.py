@@ -57,3 +57,4 @@ if __name__ == "__main__":
     target_dir = input("Digite o caminho da pasta a ser organizada: ").strip()
     organize_files(target_dir)
     print("Organização concluída! ✅")
+
